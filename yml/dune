@@ -1,0 +1,7 @@
+(library
+ (name yml)
+ (public_name yml)
+ (modules yml)
+ (wrapped false)
+ (virtual_modules yml)
+ (default_implementation yml.c))

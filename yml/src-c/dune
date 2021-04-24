@@ -1,0 +1,5 @@
+(library
+ (name yml_c)
+ (public_name yml.c)
+ (implements yml)
+ (libraries yaml))
