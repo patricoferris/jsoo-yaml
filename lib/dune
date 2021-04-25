@@ -1,11 +1,4 @@
 (library
- (name yml_js)
- (public_name yml.js)
- (implements yml)
- (modules yml)
- (libraries js_of_ocaml jsoo-yaml brr))
-
-(library
  (name jsyaml)
  (public_name jsoo-yaml)
  (modules jsyaml g)

@@ -2,7 +2,7 @@
 opam-version: "2.0"
 synopsis: "A thin wrapper over ocaml-yaml and jsoo-yaml"
 description:
-  "Yml provides a thin wrapper over a C and JS backend for parsing Yaml the share types"
+  "Yml provides a thin wrapper over a C and JS backend for parsing Yaml and to share types"
 maintainer: ["pf341@patricoferris.com"]
 authors: ["Patrick Ferris"]
 license: "ISC"
